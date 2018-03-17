@@ -1,0 +1,24 @@
+{
+  "name": "lambda-redis",
+  "version": "1.0.0",
+  "description": "Lambda Redis module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchoi926/Lambda-Redis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchoi926/Lambda-Redis/issues"
+  },
+  "homepage": "https://github.com/jchoi926/Lambda-Redis#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "md5": "^2.2.1",
+    "redis": "^2.8.0"
+  }
+}
